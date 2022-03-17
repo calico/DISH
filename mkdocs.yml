@@ -1,0 +1,4 @@
+site_name: MyProject
+nav:
+    - Index: 'index.md'
+theme: sandstone
